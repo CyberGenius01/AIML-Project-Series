@@ -6,8 +6,8 @@
 ## Accuracy and Loss Curves
 
 ### Beginner-ChatBot
-![Accuracy Curve](https://github.com/CyberGenius01/Basic-greeting-Chatbot/blob/main/at2.png)
-![Loss Curve](https://github.com/CyberGenius01/Basic-greeting-Chatbot/blob/main/lt2.png)
+![Accuracy Curve](https://github.com/CyberGenius01/Basic-greeting-Chatbot/blob/main/a2.png)
+![Loss Curve](https://github.com/CyberGenius01/Basic-greeting-Chatbot/blob/main/l2.png)
 
 ### Basic-ChatBot
 ![Accuracy Curve](https://github.com/CyberGenius01/Basic-greeting-Chatbot/blob/main/AT.png)
