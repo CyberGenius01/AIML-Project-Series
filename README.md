@@ -1,11 +1,11 @@
 # Basic-greeting-Chatbot
 ## Learning rate and Positional Encoding
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Learning Rate vs Epochs](https://github.com/CyberGenius01/Basic-greeting-Chatbot/blob/main/lrate.png)
+![Position vs Encoding](https://github.com/CyberGenius01/Basic-greeting-Chatbot/blob/main/t1.png)
 
 ## Accuracy and Loss Curves
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Accuracy Curve](https://github.com/CyberGenius01/Basic-greeting-Chatbot/blob/main/AT.png)
+![Loss Curve](https://github.com/CyberGenius01/Basic-greeting-Chatbot/blob/main/lT.png)
 
 ## Model Structure and Results
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Output](https://github.com/CyberGenius01/Basic-greeting-Chatbot/blob/main/output.png)
